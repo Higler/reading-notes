@@ -1,5 +1,4 @@
- Higler.github.io/reading-notes/
-
+# Higler.github.io
 # Reading Notes
 
 ## Code 102 - Intro to Software Development
