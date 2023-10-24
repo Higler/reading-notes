@@ -1,0 +1,25 @@
+<!DOCTYPE HTML>
+
+<Head><style>h1 {background-color : black; color: limegreen; padding: 20px;}</style>></Head>
+
+<header>web development is fun!</header>
+
+<main>html practice</main>
+
+<h1>Class 1 Lab</h1>
+
+<body>
+<p style="background-color:blue; color: red">What is your name?</p>
+<script>let name = prompt("What is your name?"); alert("Nice to meet you, " + name); console.log(name);</script>
+
+<p style="background-color:yellow; color: green">What is your favorite place?</p>
+<script>let place = prompt("What is your favorite place?"); alert(place + " is an awesome place!"); console.log(place);</script>
+
+<p style="background-color:brown; color: orange">What is your favorite activity?</p>
+<script>let activity = prompt("What is your favorite activity?"); alert("I also enjoy " + activity); console.log(activity);</script>
+
+<p style="background-color:pink; color: purple">What is your favorite animal?</p>
+<script>let animal = prompt("What is your favorite animal?"); alert(animal + " are great creatures!"); console.log(animal);</script>
+</body>
+
+<footer>fun time making web pages @Code Fellows</footer>
