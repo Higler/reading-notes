@@ -1,3 +1,5 @@
+Question - When a customer is buying brake pads to complete a brake job on a vehicle, it's essential to ensure they have all the necessary items and information to do the job correctly and safely. Here is a list of the proper items and considerations:
+
 Brake Pads: Ensure the customer is purchasing the correct brake pads for their specific vehicle make, model, and year. There are different types of brake pads, such as ceramic, semi-metallic, and organic, so make sure they select the appropriate type for their needs.
 
 Brake Rotors or Drums: Depending on the condition of the existing rotors or drums, they may need to be resurfaced or replaced. It's essential to inspect and measure them to determine if they are within acceptable tolerance levels.
